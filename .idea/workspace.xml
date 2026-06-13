@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d9d1c5e8-b98e-4be4-a39c-4e64990cc4ec" name="Changes" comment="add">
+      <change afterPath="$PROJECT_DIR$/Linked List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linkedlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stringcomp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binarysearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gfd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gridmaze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/left.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ll begin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lleftrightsum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/llpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maxlength target.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pancake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recurs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recurssion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ride.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/right.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rightsum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/slideopt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sliding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/two pointer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vote.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wildfire.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000001789158" />
+      <entry key="MS500" value="1.011752152214112" />
+      <entry key="S2" value="1.4764438202812002" />
+      <entry key="S5" value="2.1076470821213973" />
+      <entry key="S10" value="2.4840215976885864" />
+      <entry key="S30" value="2.809457613894291" />
+      <entry key="S60" value="2.902188437047336" />
+      <entry key="M2" value="2.950441137905284" />
+      <entry key="M5" value="2.980017447136154" />
+      <entry key="M10" value="2.9917352336268035" />
+      <entry key="M15" value="3.05468363714178" />
+      <entry key="M30" value="6.316436678447775" />
+      <entry key="H1" value="34.190659419829856" />
+      <entry key="H2" value="117.68830792677277" />
+      <entry key="H4" value="266.6377914931452" />
+      <entry key="D1" value="955.248993461424" />
+      <entry key="W1" value="1790.3262782033312" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="3.1748611725998756E-126" />
+      <entry key="S60" value="1.8020898553630282E-63" />
+      <entry key="M2" value="4.83463040199482E-32" />
+      <entry key="M5" value="4.775565141667702E-13" />
+      <entry key="M10" value="1.1557195292741587E-6" />
+      <entry key="M15" value="1.5805972255429274E-4" />
+      <entry key="M30" value="0.022433807511890058" />
+      <entry key="H1" value="0.2926786869502476" />
+      <entry key="H2" value="1.1955742531795257" />
+      <entry key="H4" value="2.72109170335112" />
+      <entry key="D1" value="9.17505766859135" />
+      <entry key="W1" value="17.979419579980796" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="5.161220901388119E-4" />
+      <entry key="MS500" value="0.22192080585936727" />
+      <entry key="S2" value="0.9575437142275698" />
+      <entry key="S5" value="1.7284412571489702" />
+      <entry key="S10" value="2.236825273453579" />
+      <entry key="S30" value="2.709331551866335" />
+      <entry key="S60" value="2.8495113462205355" />
+      <entry key="M2" value="2.9234150516346773" />
+      <entry key="M5" value="2.969037453062378" />
+      <entry key="M10" value="2.986216102612541" />
+      <entry key="M15" value="3.051116671338862" />
+      <entry key="M30" value="6.335928167231463" />
+      <entry key="H1" value="34.47711001913392" />
+      <entry key="H2" value="118.87310680473958" />
+      <entry key="H4" value="269.34597629613387" />
+      <entry key="D1" value="964.4146334704037" />
+      <entry key="W1" value="1808.3028380818257" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3EWOJAJDxVi99geoPyBDXY7IiLb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.Linkedlist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Stringcomp.executor&quot;: &quot;Run&quot;,
+    &quot;Python.binarysearch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.left.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ll begin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.llpy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.maxlength target.executor&quot;: &quot;Run&quot;,
+    &quot;Python.merge.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pancake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ride.executor&quot;: &quot;Run&quot;,
+    &quot;Python.right.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rightrot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rightsum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.slideopt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sliding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tree.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vote.executor&quot;: &quot;Run&quot;,
+    &quot;Python.watermelon problem.executor&quot;: &quot;Coverage&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9d1c5e8-b98e-4be4-a39c-4e64990cc4ec" name="Changes" comment="" />
+      <created>1780290784847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780290784847</updated>
+      <workItem from="1780290785985" duration="6768000" />
+      <workItem from="1780485005114" duration="39232000" />
+      <workItem from="1780971720306" duration="5362000" />
+      <workItem from="1781074589689" duration="5375000" />
+      <workItem from="1781169302213" duration="4553000" />
+      <workItem from="1781341876473" duration="301000" />
+    </task>
+    <task id="LOCAL-00001" summary="add">
+      <option name="closed" value="true" />
+      <created>1780298719975</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780298719975</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject$ride.coverage" NAME="ride Coverage Results" MODIFIED="1780316999571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$Linkedlist.coverage" NAME="Linkedlist Coverage Results" MODIFIED="1781082384608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$right.coverage" NAME="right Coverage Results" MODIFIED="1780645206565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$maxlength_target.coverage" NAME="maxlength target Coverage Results" MODIFIED="1780719685510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$Stringcomp.coverage" NAME="Stringcomp Coverage Results" MODIFIED="1780749067778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$list.coverage" NAME="list Coverage Results" MODIFIED="1780661846963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$pancake.coverage" NAME="pancake Coverage Results" MODIFIED="1780972066408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$llpy.coverage" NAME="llpy Coverage Results" MODIFIED="1781083900842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$watermelon_problem.coverage" NAME="watermelon problem Coverage Results" MODIFIED="1780298634315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$sliding.coverage" NAME="sliding Coverage Results" MODIFIED="1780663688443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$tree.coverage" NAME="tree Coverage Results" MODIFIED="1781169626112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1780641489139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$merge.coverage" NAME="merge Coverage Results" MODIFIED="1780643092577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$binarysearch.coverage" NAME="binarysearch Coverage Results" MODIFIED="1780747444184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$ll_begin.coverage" NAME="ll begin Coverage Results" MODIFIED="1781082757946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$rightrot.coverage" NAME="rightrot Coverage Results" MODIFIED="1780647653171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$rightsum.coverage" NAME="rightsum Coverage Results" MODIFIED="1780754644483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$password.coverage" NAME="password Coverage Results" MODIFIED="1780727148000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$vote.coverage" NAME="vote Coverage Results" MODIFIED="1780486883062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$slideopt.coverage" NAME="slideopt Coverage Results" MODIFIED="1780666263199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject$left.coverage" NAME="left Coverage Results" MODIFIED="1780641444225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
